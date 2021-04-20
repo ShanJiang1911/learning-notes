@@ -7,7 +7,7 @@ Examples we can use:
 1. list numbers 
 * Bullit points you want to add
 - Dash also works
-  -Even you have sub points
+ -Even you have sub points
   
 We can also share a link like [GitHub](https://github.com/)
 
