@@ -12,11 +12,15 @@ We can also share a link like [GitHub](https://github.com/)
 
 
 
-# What I learned from watching
+# **What I learned from watching the GitHub Pages video**
+
+## GitHub make it easier for you to show your world on the Internet, by simply creat a repository##
+
+:wink:
+
+# **What I learned from Syntax**
 
 
-
-# What I learned from Syntax
 
 
 
