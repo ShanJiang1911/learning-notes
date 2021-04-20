@@ -20,7 +20,7 @@ We can also share a link like [GitHub](https://github.com/)
 
 # **What I learned from "GitHub Markdown Syntax"**
 
-- [x] you can always adding liveliness to your pages. For details, please click [Here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [x] You can always adding liveliness to your pages. For details, please click [Here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
 
