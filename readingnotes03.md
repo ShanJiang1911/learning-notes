@@ -1,3 +1,0 @@
-# INTRODUCTION
-### Prerequisites
-### Version Control
