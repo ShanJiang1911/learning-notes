@@ -4,7 +4,7 @@
 
 ## **What is a growth mindset?**
 
-![](C:\Users\Jiang\Desktop)
+! [](https://post.healthline.com/wp-content/uploads/2020/07/nervous2-30.jpg)
 
 * When you see challenges, try your best to win.
 
