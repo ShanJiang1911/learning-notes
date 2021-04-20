@@ -14,11 +14,15 @@ We can also share a link like [GitHub](https://github.com/)
 
 # **What I learned from watching the GitHub Pages video**
 
-## GitHub make it easier for you to show your world on the Internet, by simply creat a repository##
+## GitHub make it easier for you to show your world on the Internet, by simply creat a repository
 
 :wink:
 
-# **What I learned from Syntax**
+# **What I learned from "GitHub Markdown Syntax"**
+
+- [x] you can always adding liveliness to your pages. For details, please click [Here](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+
 
 
 
