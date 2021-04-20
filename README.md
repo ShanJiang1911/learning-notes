@@ -4,7 +4,7 @@
 
 ## **What is a growth mindset?**
 
-![Image of brain](C:\Users\Jiang\Desktop)
+![](C:\Users\Jiang\Desktop)
 
 * When you see challenges, try your best to win.
 
