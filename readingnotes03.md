@@ -41,6 +41,8 @@
   **view short names--git remote
   **view all remote URLs--git remote -v
 
+  [<--Back](README.md)
+
 
 
 
