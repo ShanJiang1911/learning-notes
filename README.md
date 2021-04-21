@@ -11,11 +11,11 @@
 
 [GrowthMindset](readingnotesMindset.md)
 
-[Readingnotes02]()
+[Readingnotes02](readingnotes02.md)
 
 [Readingnotes03](readingnotes03.md)
 
-[Readingnotes04]()
+[Readingnotes04](readingnotes04.md)
 
 [Readingnotes05]()
 
