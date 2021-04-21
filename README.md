@@ -1,22 +1,26 @@
 # Learning-Notes
 
-## Hello, this is Shan. Welcome to my page.
+## Hello, this is Shan. Welcome to my reading notes world.
 
-## **What is a growth mindset?**
 
 ![](https://post.healthline.com/wp-content/uploads/2020/07/nervous2-30.jpg)
 *pictures from https://post.healthline.com/wp-content/uploads/2020/07/nervous2-30.jpg*
 
-* When you see challenges, try your best to win.
+## Content of My Reading Notes
 
-* When you meet obstacles, don't give up
 
-* When you feel comfortable, you are not taking the effort
+[GrowthMindset](readingnotesMindset.md)
 
-* Criticism can help you grow from your mistake
+[Readingnotes02]()
 
-* When you see other people success, treat it as a motivation
+[Readingnotes03](readingnotes03.md)
 
-I want to stay in a growth mindset by doing the following:
+[Readingnotes04]()
 
-- [x] Finish your to do list everyday. :love_you_gesture:
+[Readingnotes05]()
+
+[Readingnotes06]()
+
+[Readingnotes07]()
+
+[Readingnotes08]()
