@@ -17,10 +17,12 @@
 
 [Readingnotes04](readingnotes04.md)
 
-[Readingnotes05]()
+[Readingnotes05](readingnotes05.md)
 
-[Readingnotes06]()
+[Readingnotes06a](readingnotes06a.md)
 
-[Readingnotes07]()
+[Readingnotes06b](readingnotes06b.md)
 
-[Readingnotes08]()
+[Readingnotes07](readingnotes07.md)
+
+[Readingnotes08](readingnotes08.md)
