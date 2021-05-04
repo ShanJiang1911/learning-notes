@@ -29,7 +29,7 @@
 * Sectioning elements
 
 ## CHAPTER 8 EXTRA MARKUP
-* The ecolution history of HTML
+* The evolution history of HTML
 * Doctype html
 * < !--comment goes here >
 * ID & CLASS attribute
