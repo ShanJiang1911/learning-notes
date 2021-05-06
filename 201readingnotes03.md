@@ -42,3 +42,5 @@
   * string, number, boolean, null, undefined
 * Truthy and Falsy values
 * Three types of loop: for, while, and do...while
+
+[<--Back>](README.md)
