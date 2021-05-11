@@ -2,7 +2,7 @@
 
 ## Hello, this is Shan. Welcome to my reading notes world.
 
-Currently working on<font color=white size=05> Code201 </font>  class.
+Currently working on<font color=lightcoral size=05> Code201 </font>  class.
 
 
 ![](https://post.healthline.com/wp-content/uploads/2020/07/nervous2-30.jpg)
