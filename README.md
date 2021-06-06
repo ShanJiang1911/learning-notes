@@ -1,15 +1,49 @@
-# Learning-Notes
+# Reading-Notes
 
 ## Hello, this is Shan. Welcome to my reading notes world.
 
-Currently working on<font color=lightcoral size=05> Code201 </font>  class.
+Currently working on<font color=lightcoral size=05> Code 301 </font>  class.
 
 
 ![](https://post.healthline.com/wp-content/uploads/2020/07/nervous2-30.jpg)
 
 ## Content of My Reading Notes
+### Code 301 - Intermediate Software Development
+[Read-Class01](ReadClass01.md)
 
-### Class 201D75 Code 201 Reading Notes
+[Read-Class02](ReadClass02.md)
+
+[Read-Class03](ReadClass03.md)
+
+[Read-Class04](ReadClass04.md)
+
+[Read-Class05](ReadClass05.md)
+
+[Read-Class06](ReadClass06.md)
+
+[Read-Class07](ReadClass07.md)
+
+[Read-Class08](ReadClass08.md)
+
+[Read-Class09](ReadClass09.md)
+
+[Read-Class10](ReadClass10.md)
+
+[Read-Class11](ReadClass11.md)
+
+[Read-Class12](ReadClass12.md)
+
+[Read-Class13](ReadClass13.md)
+
+[Read-Class14a](ReadClass14a.md)
+
+[Read-Class14b](ReadClass14b.md)
+
+[Read-Class15](ReadClass15.md)
+
+---
+
+### Code 201 - Foundations of Software Development
 
 [201ReadingnotesClass01](201class01.md)
 
@@ -43,7 +77,7 @@ Currently working on<font color=lightcoral size=05> Code201 </font>  class.
 
 ---
 
-### Class 102D26 Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 [GrowthMindset](readingnotesMindset.md)
 
