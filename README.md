@@ -2,12 +2,106 @@
 
 ## Hello, this is Shan. Welcome to my reading notes world.
 
-Currently working on<font color=lightcoral size=05> Code 301 </font>  class.
-
+Currently working on<font color=lightcoral size=05> Code 401 </font>  class.
 
 ![](https://post.healthline.com/wp-content/uploads/2020/07/nervous2-30.jpg)
 
 ## Content of My Reading Notes
+
+---
+
+### Code 401 - Advanced Software Development in Java
+
+[Read01-Java Basics](Read01.md)
+
+[Read02-Arrays, Loops, Imports](Read02.md)
+
+[Read03-Maps, primitives, File I/O](Read03.md)
+
+[Read04-OOP](Read04.md)
+
+[Read05-Linked Lists](Read05.md)
+
+[Read06-Inheritance and Interfaces](Read06.md)
+
+[Read07-Inheritance day 2](Read07.md)
+
+[Read08-OO Design](Read08.md)
+
+[Read09-WRRC and Java](Read09.md)
+
+[Read010-BCrypt](Read10.md)
+
+[Read011-Stacks & Queues](Read11.md)
+
+[Read012-Trees](Read12.md)
+
+[Read013-Spring](Read13.md)
+
+[Read014-Spring Authentication](Read14.md)
+
+[Read015-Spring RESTful Routing & Static Files](Read15.md)
+
+[Read016-Spring Authorization](Read16.md)
+
+[Read017-Related Resources and Integration Testing](Read17.md)
+
+[Read018-Web App Security](Read18.md)
+
+[Read019-Spring and Sockets](Read19.md)
+
+[Read020-Android Fundamentals](Read20.md)
+
+[Read21-Intents, Activities, and SharedPreferences](Read21.md)
+
+[Read22-RecyclerView](Read22.md)
+
+[Read23-Room](Read23.md)
+
+[Read24-Hash Tables](Read24.md)
+
+[Read25-Espresso](Read25.md)
+
+[Read26-Serverless and Amplify](Read26.md)
+
+[Read27-GraphQL @connection](Read27.md)
+
+[Read28-Monetization](Read28.md)
+
+[Read29-Graphs](Read29.md)
+
+[Read30-Cognito](Read30.md)
+
+[Read31-Notifications](Read31.md)
+
+[Read32-Kinesis](Read32.md)
+
+[Read33-Intent Filters](Read33.md)
+
+[Read34-Location](Read34.md)
+
+[Read35-Ethics in Tech](Read35.md)
+
+[Read36-Kinesis & Analytics](Read36.md)
+
+[Read37-OSS Contributions](Read37.md)
+
+[Read38-Monetization](Read38.md)
+
+[Read39-TBD](Read39.md)
+
+[Read40-TBD](Read40.md)
+
+[Read41-TBD](Read41.md)
+
+[Read42-TBD](Read42.md)
+
+[Read43-TBD](Read43.md)
+
+[Read44-TBD](Read44.md)
+
+---
+
 ### Code 301 - Intermediate Software Development
 [Read-Class01](ReadClass01.md)
 
@@ -96,8 +190,3 @@ Currently working on<font color=lightcoral size=05> Code 301 </font>  class.
 [Readingnotes07](readingnotes07.md)
 
 [Readingnotes08](readingnotes08.md)
-
-
-
-
-
