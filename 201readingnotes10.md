@@ -18,4 +18,3 @@
   * go back to basics
   * missed/extra characters
   * data type issues
-
