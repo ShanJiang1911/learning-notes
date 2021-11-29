@@ -2,13 +2,28 @@
 
 ## Hello, this is Shan. Welcome to my reading notes world.
 
-Currently working on<font color=lightcoral size=05> Code 401 </font>  class.
+Currently working on<font color=lightcoral size=05> Code 401 Python </font>  class.
 
 ![](https://post.healthline.com/wp-content/uploads/2020/07/nervous2-30.jpg)
 
 ## Content of My Reading Notes
 
 ---
+
+### Code 401 - Advanced Python Software Development
+[The Growth Mindset](PythonTheGrowthMindset.md)
+
+[PythonRead-01](PythonRead-01.md)
+
+[PythonRead-02](PythonRead-02.md)
+
+[PythonRead-03](PythonRead-03.md)
+
+[PythonRead-04](PythonRead-04.md)
+
+[PythonRead-05](PythonRead-05.md)
+
+[PythonRead-06](PythonRead-06.md)
 
 ### Code 401 - Advanced Software Development in Java
 
