@@ -23,8 +23,6 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 
 [PythonRead-05](PythonRead-05.md)
 
-[PythonRead-06](PythonRead-06.md)
-
 ### Code 401 - Advanced Software Development in Java
 
 [Read01-Java Basics](Read01.md)
