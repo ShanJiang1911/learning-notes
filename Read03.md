@@ -1,33 +1,25 @@
-## [Java Primitives versus Objects](https://www.baeldung.com/java-primitives-vs-objects)
----
+### [Read & Write Files in Python](https://realpython.com/read-write-files-python/)
 
-* Java has two-fold type system: primitives such as int, boolean; and reference types such as integer, Boolean.
+* 3 mainn parts of file: Header; Data; End of file(EOF)
 
-* Reference types occupy more bits than primitive types
+* 3 major parts of file path: Folder Path; File Name; Extension
 
-* Primitive types are mcuh faster and require much less memory
+* double-dot(..) can traverse directories above the current directory
 
-## [Exceptions in Java](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)
----
+* Open & Close file:
+  * file = open('dog_breeds.txt')
+  * reader = open('dog_breeds.txt')
+try:
+    Further file processing goes here
+finally:
+    reader.close()
 
-* What is an Exception? It's an exceptional event that can disrupts the normal flow of the program's instructions
+* .write(string): This writes the string to the file.
 
-* The Catch or Specify Requirement. Code might throw certain exceptions must be enclosed by one of the following：
-  * A try statement that catches the exception
-  * A method that specifies that it can throw the exception
-  * Three kinds of exceptions: checked exception; error; runtime exception
+* The __file__ attribute is a special attribute of modules just like __name__
 
-* Catching and handling exceptions
-  * The try blocks
-  * The catch blocks
-  * The finally blocks
-  * The try-with-resources Statement
+### [Exceptions in Python](https://realpython.com/python-exceptions/)
 
-## [Using Scanner to read in a file in Java](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
----
-
-* Scanner uses white space(blanks, tabs, etc) to separate tokens
-
-* Translating Individual Tokens
+* How to raise, catch, and handle exceptions in Python
 
 [<--Back](README.md)

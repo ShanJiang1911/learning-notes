@@ -11,19 +11,86 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 ---
 
 ### Code 401 - Advanced Python Software Development
+
 [The Growth Mindset](PythonTheGrowthMindset.md)
 
-[PythonRead-01](PythonRead-01.md)
+[PythonRead-01](Read01.md)
 
-[PythonRead-02](PythonRead-02.md)
+[PythonRead-02](Read02.md)
 
-[PythonRead-03](PythonRead-03.md)
+[PythonRead-03](Read03.md)
 
-[PythonRead-04](PythonRead-04.md)
+[PythonRead-04](Read04.md)
 
-[PythonRead-05](PythonRead-05.md)
+[PythonRead-05](Read05.md)
 
-### Code 401 - Advanced Software Development in Java
+[PythonRead-06](Read06.md)
+
+[PythonRead-07](Read07.md)
+
+[PythonRead-08](Read08.md)
+
+[PythonRead-09](Read09.md)
+
+[PythonRead-10](Read10.md)
+
+[PythonRead-11](Read11.md)
+
+[PythonRead-12](Read12.md)
+
+[PythonRead-13](Read13.md)
+
+[PythonRead-14](Read14.md)
+
+[PythonRead-15](Read15.md)
+
+[PythonRead-16](Read16.md)
+
+[PythonRead-17](Read17.md)
+
+[PythonRead-18](Read18.md)
+
+[PythonRead-19](Read19.md)
+
+[PythonRead-20](Read20.md)
+
+[PythonRead-21](Read21.md)
+
+[PythonRead-22](Read22.md)
+
+[PythonRead-23](Read23.md)
+
+[PythonRead-24](Read24.md)
+
+[PythonRead-25](Read25.md)
+
+[PythonRead-26](Read26.md)
+
+[PythonRead-27](Read27.md)
+
+[PythonRead-28](Read28.md)
+
+[PythonRead-29](Read29.md)
+
+[PythonRead-30](Read30.md)
+
+[PythonRead-31](Read31.md)
+
+[PythonRead-32](Read32.md)
+
+[PythonRead-33](Read33.md)
+
+[PythonRead-34](Read34.md)
+
+[PythonRead-35](Read35.md)
+
+[PythonRead-36](Read36.md)
+
+[PythonRead-37](Read37.md)
+
+[PythonRead-38](Read38.md)
+
+<!-- ### Code 401 - Advanced Software Development in Java
 
 [Read01-Java Basics](Read01.md)
 
@@ -111,7 +178,7 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 
 [Read43-TBD](Read43.md)
 
-[Read44-TBD](Read44.md)
+[Read44-TBD](Read44.md) -->
 
 ---
 
