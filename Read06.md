@@ -21,12 +21,12 @@
 
 * Big O notation: time complexity & space complexity. How long and how much memory it takes to perform the algorithm.
 
-* Allows you to quantify and compare dirrerent algorithms. Big O usually gives the worst case scenario.
+* Allows you to quantify and compare different algorithms. Big O usually gives the worst case scenario.
 
-* logrithmic complexity: why binary search is 
+* logarithmic complexity: why binary search is 
 helpfull
 
-* difference between expotential complexity and linear complexity is huge.
+* difference between exponential-complexity and linear-complexity is huge.
 
 
 ### [Rolling Dice Examples](https://artofproblemsolving.com/wiki/index.php/Basic_Programming_With_Python#Program_Example_1_3)
