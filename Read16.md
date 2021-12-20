@@ -3,11 +3,11 @@
 * cloud provider in charge of provisioning, scheduling, scaling, patching and more cloud provider
 * AWS Lambda; Microsoft Azure; Google Cloud; IBM Cloud
 * Pros:
-  * developer has more time to focus on front-end
+  * developers will have more time to focus on front-end
   * pay for execution only
-  * polyglot environment, compatible with Java,  Python, nodejs. etc
+  * polyglot environment, compatible with Java,  Python, node.js, etc.
   * simplifies deployment and DevOps cycles
-  * faster and more cost-effective than other forms of compute in certain scenario
+  * faster and more cost-effective than other forms of computing in some certain scenarios
 * Cons:
   * May cost more for Stable or predictable  workloads
   * Cold starts may cause delay e.g. trading
@@ -15,10 +15,11 @@
 ### Bookmark/Skim
 #### [Serverless Functions](https://vercel.com/ocs/concepts/functions/serverless-functions)
 #### [Effective Python Environment](https://ealpython.com/effective-python-environment/)
-### dditional Resources
+### additional Resources
 #### [venv - Creation of Virtual Environments](https://docs.python.org/3/library/venv.html)
 #### [Vercel - Get Started](https://vercel.com/ocs/get-started)
 #### [http.server](https://pymotw.com/3/http.erver/index.html)
 #### [Requests](https://docs.python-requests.rg/en/latest/)
 #### [Python & APIs](https://realpython.com/python-api/)
+#### [What is Serverless?](https://www.youtube.com/watch?v=vxJobGtqKVM)
 [<--Back](README.md)
