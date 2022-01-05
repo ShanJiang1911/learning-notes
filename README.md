@@ -52,18 +52,6 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 
 [PythonRead-19](Read19.md)
 
-[PythonRead-20](Read20.md)
-
-[PythonRead-21](Read21.md)
-
-[PythonRead-22](Read22.md)
-
-[PythonRead-23](Read23.md)
-
-[PythonRead-24](Read24.md)
-
-[PythonRead-25](Read25.md)
-
 [PythonRead-26](Read26.md)
 
 [PythonRead-27](Read27.md)
@@ -89,6 +77,18 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 [PythonRead-37](Read37.md)
 
 [PythonRead-38](Read38.md)
+
+[PythonRead-39](Read39.md)
+
+[PythonRead-40](Read40.md)
+
+[PythonRead-41](Read41.md)
+
+[PythonRead-42](Read42.md)
+
+[PythonRead-43](Read43.md)
+
+[PythonRead-44](Read44.md)
 
 <!-- ### Code 401 - Advanced Software Development in Java
 
