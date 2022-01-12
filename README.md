@@ -60,8 +60,6 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 
 [PythonRead-29](Read29.md)
 
-[PythonRead-30](Read30.md)
-
 [PythonRead-31](Read31.md)
 
 [PythonRead-32](Read32.md)
