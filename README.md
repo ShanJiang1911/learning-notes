@@ -82,9 +82,9 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 
 [PythonRead-42](Read42.md)
 
-[PythonRead-43](Read43.md)
+<!-- [PythonRead-43](Read43.md)
 
-[PythonRead-44](Read44.md)
+[PythonRead-44](Read44.md) -->
 
 <!-- ### Code 401 - Advanced Software Development in Java
 
