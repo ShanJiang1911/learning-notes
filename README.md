@@ -207,10 +207,6 @@ Currently working on<font color=lightcoral size=05> Code 401 Python </font>  cla
 
 [Read-Class14a](ReadClass14a.md)
 
-[Read-Class14b](ReadClass14b.md)
-
-[Read-Class15](ReadClass15.md)
-
 ---
 
 ### Code 201 - Foundations of Software Development
